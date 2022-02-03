@@ -1,5 +1,5 @@
 from django.db import models
-from django.urls import reverse
+from django.shortcuts import reverse
 
 
 class Post(models.Model):
@@ -13,7 +13,7 @@ class Post(models.Model):
         return reverse('post_detail_url', kwargs={'slug': self.slug})
 
     def __str__(self):
-        return '{}'.format(self.title)
+        return self.title
 
 
 class Tag(models.Model):
@@ -21,7 +21,7 @@ class Tag(models.Model):
     slug = models.SlugField(max_length=50, unique=True)
 
     def __str__(self):
-        return '{}'.format(self.title)
+        return self.title
 
     def get_absulute_url(self):
         return reverse('tag_detail_url', kwargs={'slug': self.slug})
