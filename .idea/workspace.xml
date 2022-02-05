@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ded69504-037d-43c5-ad6c-f1ad5e1fa56f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/blogengine/static/css/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/base_blog.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/base_blog.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/blogengine/blogengine/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blogengine/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/blogengine/blogengine/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blogengine/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/blogengine/blogengine/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blogengine/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/blogengine/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/templates/base.html" afterDir="false" />
     </list>
