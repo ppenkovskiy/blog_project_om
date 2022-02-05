@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ded69504-037d-43c5-ad6c-f1ad5e1fa56f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/post_update_form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/tag_update_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/tag_delete_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/blogengine/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/blogengine/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/urls.py" afterDir="false" />
