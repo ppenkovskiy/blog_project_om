@@ -1,1 +1,1 @@
-This project developed by Pavel Penkovskiy (https://www.linkedin.com/in/pavel-penkovskiy/) on youtube.com course "Lessons Django 2.x" by Oleg Molchanov (https://www.youtube.com/watch?v=T0Xi8gWDrQ0&list=PLlWXhlUMyooaDkd39pknA1-Olj54HtpjX).
+This project developed by Pavel Penkovskiy (https://www.linkedin.com/in/pavel-penkovskiy/).
