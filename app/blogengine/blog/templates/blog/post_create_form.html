@@ -8,7 +8,7 @@
 
     <form class="" action="{% url 'post_create_url' %}" method="post">
         {% csrf_token %}
-
+        <h1 class="mb-4">Create your post:</h1>
         {% for field in form %}
             <div class='form-group'>
                 {% if field.errors %}
@@ -20,7 +20,7 @@
                 {{ field }}
             </div>
         {% endfor %}
-        <button type="submit" class="btn btn-primary">Create post</button>
+        <br><button type="submit" class="btn btn-primary">Create post</button>
     </form>
 
 

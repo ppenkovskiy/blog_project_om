@@ -40,9 +40,11 @@ def posts_list(request):
 
     return render(request, 'blog/index.html', context=context)
 
+
 class PostDetail(ObjectDetailMixin, View):
     model = Post
     template = 'blog/post_detail.html'
+
 
 class PostCreate(LoginRequiredMixin, ObjCreateMixin, View):
     form_model = PostForm

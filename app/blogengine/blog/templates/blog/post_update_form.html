@@ -8,7 +8,7 @@
 
     <form class="" action="{{ post.get_update_url }}" method="post">
         {% csrf_token %}
-
+        <h1 class="mb-4">Update your post:</h1>
         {% for field in form %}
             <div class='form-group'>
                 {% if field.errors %}
@@ -20,7 +20,7 @@
                 {{ field }}
             </div>
         {% endfor %}
-        <button type="submit" class="btn btn-primary">Update post</button>
+        <br><button type="submit" class="btn btn-primary">Update post</button>
     </form>
 
 
