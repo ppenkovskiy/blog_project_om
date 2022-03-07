@@ -1,7 +1,6 @@
 from django.shortcuts import render, redirect
 from django.views.generic import View
 from .models import Post, Tag
-from django.urls import reverse
 from .utils import ObjectDetailMixin, ObjCreateMixin, ObjectUpdateMixin, ObjectDeleteMixin
 from .forms import TagForm, PostForm
 from django.contrib.auth.mixins import LoginRequiredMixin
