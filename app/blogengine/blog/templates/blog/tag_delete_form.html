@@ -9,8 +9,8 @@
     <form action="{{ tag.get_delete_url }}" method="post">
         {% csrf_token %}
 
-        <h3>Are you sure you want to delete <b>"{{ tag.title|title }}"</b> tag?</h3>
-        <a href="{{ tag.get_absulute_url }}">Cancel</a>
+        <h3>Are you sure you want to delete <b>"{{ tag.title|title }}"</b> tag?</h3><br>
+        <a href="{{ tag.get_absulute_url }}" class="btn btn-info">Cancel</a><br><br>
         <button type="submit" name="button" class="btn btn-danger">Delete</button>
 
     </form>

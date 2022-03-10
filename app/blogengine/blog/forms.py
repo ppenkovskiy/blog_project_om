@@ -14,7 +14,6 @@ class TagForm(forms.ModelForm):
 
     def clean_slug(self):
         new_slug = self.cleaned_data['slug'].lower()
-
         if new_slug == 'create':
             raise ValidationError('Slug may not be "Create"')
         if Tag.objects.filter(slug__iexact=new_slug).count():
@@ -36,7 +35,6 @@ class PostForm(forms.ModelForm):
 
     def clean_slug(self):
         new_slug = self.cleaned_data['slug'].lower()
-
         if new_slug == 'create':
             raise ValidationError('Slug may not be "Create"')
         return new_slug

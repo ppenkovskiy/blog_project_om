@@ -6,17 +6,17 @@
   <component name="ChangeListManager">
     <list default="true" id="ded69504-037d-43c5-ad6c-f1ad5e1fa56f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/includes/post_card_template.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/includes/post_card_template.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/post_create_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/post_create_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/post_delete_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/post_delete_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/post_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/post_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/post_update_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/post_update_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/tag_create.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/tag_create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/tag_delete_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/tag_delete_form.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/tag_detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/tag_detail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/tag_update_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/tag_update_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/tags_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/templates/blog/tags_list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/blogengine/blog/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/blogengine/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/blog/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/blogengine/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/blogengine/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/app/blogengine/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

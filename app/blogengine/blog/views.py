@@ -7,6 +7,7 @@ from django.contrib.auth.mixins import LoginRequiredMixin
 from django.core.paginator import Paginator
 from django.db.models import Q
 
+
 def posts_list(request):
     search_query = request.GET.get('search', '')
 
